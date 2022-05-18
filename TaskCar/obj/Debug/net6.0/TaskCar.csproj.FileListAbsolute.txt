@@ -1,0 +1,15 @@
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\bin\Debug\net6.0\TaskCar.exe
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\bin\Debug\net6.0\TaskCar.deps.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\bin\Debug\net6.0\TaskCar.runtimeconfig.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\bin\Debug\net6.0\TaskCar.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\bin\Debug\net6.0\TaskCar.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.csproj.AssemblyReference.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.AssemblyInfoInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.AssemblyInfo.cs
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.csproj.CoreCompileInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\refint\TaskCar.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\TaskCar.genruntimeconfig.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskCar\obj\Debug\net6.0\ref\TaskCar.dll
