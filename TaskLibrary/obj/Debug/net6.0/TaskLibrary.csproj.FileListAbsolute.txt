@@ -1,0 +1,15 @@
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\bin\Debug\net6.0\TaskLibrary.exe
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\bin\Debug\net6.0\TaskLibrary.deps.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\bin\Debug\net6.0\TaskLibrary.runtimeconfig.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\bin\Debug\net6.0\TaskLibrary.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\bin\Debug\net6.0\TaskLibrary.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.csproj.AssemblyReference.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.AssemblyInfoInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.AssemblyInfo.cs
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\refint\TaskLibrary.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\TaskLibrary.genruntimeconfig.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\PracticeOOP\TaskLibrary\obj\Debug\net6.0\ref\TaskLibrary.dll
